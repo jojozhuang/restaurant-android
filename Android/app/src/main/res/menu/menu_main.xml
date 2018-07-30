@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="johnny.portfolio.mobile.restaurant.RestaurantListActivity">
+
+    <item android:id="@+id/action_search"
+        android:title="@string/action_search"
+        android:icon="@mipmap/ic_search_white_48dp"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+
+    <item
+        android:id="@+id/action_signin"
+        android:icon="@mipmap/ic_account_box_black_48dp"
+        android:title="@string/action_signin"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@mipmap/ic_account_box_black_48dp"
+        android:title="@string/action_logout"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
