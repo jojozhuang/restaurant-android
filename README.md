@@ -4,7 +4,7 @@ An Android app for searching restaurants, built with Java.
 # Function
 This app is used to search restaurants, view the details of them and submit comments.
 
-<img src="/public/index.png" width="400px">
+<kbd><img src="/public/index.png" width="350px"></kbd>
 
 # Setup Locally
 ```bash
