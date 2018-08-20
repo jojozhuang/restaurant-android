@@ -1,14 +1,18 @@
 # Restaurant
 An Android app for searching restaurants, built with Java.
+
 <kbd><img src="/public/index.png" width="350px"></kbd>
 
 # Function
-This Android app is used to search restaurants, view the details of them and submit comments. The available features are listed below.
+This Android app is used to search restaurants, view details and submit comments. The available features are listed below.
 * User Authentication - Sign Up, Sign In.
 * Restaurants - Grouped by category, Restaurant, Dessert, CoffeeTea, Bakeries and IceCream.
 * Search - Search restaurants by name.
 * Feedback - Submit Comments and Ratings.
 * Screen - Portrait Orientation, Landscape Orientation, Tablet screen is also supported.
+
+# Technology
+This app consists of two parts. The mobile app is developed for Android platform. It relies on the backend server to get  data dynamically. The backend server hosts RESTful services, which are built with ASP.NET MVC.
 
 # Setup Locally
 ```bash
