@@ -10,6 +10,7 @@ This Android app is used to search restaurants, view details and submit comments
 * Search - Search restaurants by name.
 * Feedback - Submit Comments and Ratings.
 * Screen - Portrait Orientation, Landscape Orientation, Tablet screen is also supported.
+* Dynamic Data - All data are fetched from backend RESTful services.
 
 # Technology
 This app consists of two parts. The mobile app is developed for Android platform. It relies on the backend server to get  data dynamically. The backend server hosts RESTful services, which are built with ASP.NET MVC.
