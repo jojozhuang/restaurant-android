@@ -6,7 +6,7 @@ An Android app for searching restaurants, built with Java.
 # Function
 This Android app is used to search restaurants, view details and submit comments. The available features are listed below.
 * User Authentication - Sign Up, Sign In.
-* Restaurants - Grouped by category, Restaurant, Dessert, CoffeeTea, Bakeries and IceCream.
+* Restaurants - Grouped by category(Restaurant, Dessert, CoffeeTea, Bakeries and IceCream).
 * Search - Search restaurants by name.
 * Feedback - Submit Comments and Ratings.
 * Screen - Portrait Orientation, Landscape Orientation, Tablet screen is also supported.
